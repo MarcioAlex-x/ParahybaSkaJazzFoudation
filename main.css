@@ -1,0 +1,18 @@
+.barra{
+    height: 1px;
+    width: 100%;
+    background-color: red;
+}
+
+.carousel-item img{
+    height: 100vh;
+}
+
+.onde-estivemos ul li{
+    list-style: none;
+}
+
+textarea{
+    resize: none;
+    height: 150px;
+}
